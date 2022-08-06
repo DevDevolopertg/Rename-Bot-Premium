@@ -16,7 +16,7 @@ NOTE : If You Make The A Bot With Your Premium String Session Only Do It In Your
 
 ### DEPLOYEMENT SUPPORT
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-Premium)                                
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DevDevolopertg/Rename-Bot-Premium)                                
 
 
 ## Configs 
